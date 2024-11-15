@@ -54,14 +54,14 @@ const AboutUs = () => {
             <span className="text-4xl text-[#7E513B] mb-4">🏆</span>
             <h3 className="text-lg font-medium text-[#521C14]">Best Actor Award</h3>
             <p className="text-sm text-[#654D3B] text-center mt-2">
-              Recognized for outstanding performance in the play <span className="italic">"Echoes of Silence"</span>.
+              Recognized for outstanding performance in the play <span className="italic">"from Shakti Production"</span>.
             </p>
           </div>
 
           {/* Achievement Card */}
           <div className="flex flex-col items-center bg-white rounded-lg shadow-lg p-6">
             <span className="text-4xl text-[#7E513B] mb-4">🎭</span>
-            <h3 className="text-lg font-medium text-[#521C14]">Over 50 Performances</h3>
+            <h3 className="text-lg font-medium text-[#521C14]">More Than 4 plays</h3>
             <p className="text-sm text-[#654D3B] text-center mt-2">
               Performed in leading roles across dramas, comedies, and experimental plays.
             </p>
